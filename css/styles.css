@@ -14,3 +14,7 @@ body {
     color: #FAF9F6;
     font-family: 'Roboto', sans-serif;
 }
+
+.about {
+    line-height: 1.5;
+}
