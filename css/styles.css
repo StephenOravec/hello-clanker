@@ -16,15 +16,18 @@ body {
 }
 
 h1 {
-    color: #3aff5f;
+    color: #cbfff7;
 }
 
 h2 {
-    color: #f5f5f5;
+    color: #cbfff7;
+    padding-left: 25px;
 }
+
 
 .about {
     line-height: 1.8;
+    padding-left: 40px;
 }
 
 .container {
