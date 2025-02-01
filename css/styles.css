@@ -33,6 +33,11 @@ h2 {
     padding-left: 40px;
 }
 
+.links {
+    line-height: 2.8;
+    padding-left: 40px;
+}
+
 .container {
     display: flex;
     flex-direction: column;
